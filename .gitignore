@@ -1,0 +1,6 @@
+__pycache__/
+frames/
+.env
+.venv
+*.mp4
+*.zip
