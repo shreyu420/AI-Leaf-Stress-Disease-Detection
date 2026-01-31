@@ -137,7 +137,7 @@ Use the provided sample inputs:
 sample_inputs/sample_leaf.jpg
 sample_inputs/sample_video.mp4
 Run the application:
-pip install -r requirements.txt
+pip install -r requirements.txt (Install all these in python virtual environment activated)
 streamlit run src/app.py
 
 
@@ -189,3 +189,4 @@ Explainability
 Usability
 Real-world agricultural constraints
 It is designed as a deployable AI system, not just a machine-learning demo.
+
